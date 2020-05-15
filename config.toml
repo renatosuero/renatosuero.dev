@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 	info = "Software Engineer"
 	description = "Renato Suero"
 	keywords = "blog,software engineer,tutorial,personal"
-	avatarurl = "https://themes.gohugo.io//theme/hugo-coder/images/avatar.jpg"
+	avatarurl = "me.png"
 
 	favicon_32 = "/img/favicon-32x32.png"
 	favicon_16 = "/img/favicon-16x16.png"
