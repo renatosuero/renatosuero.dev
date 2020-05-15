@@ -3,6 +3,7 @@ title = "Renato Suero"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+googleAnalytics = "UA-109216687-1"
 
 paginate = 20
 canonifyurls = true
