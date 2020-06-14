@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "🇧🇷 Vimux — integrando o tmux no vim"
+title: "🇧🇷 Vimux - integrando o tmux no vim"
 date: 2017-02-20T07:53:41+02:00
 description: ""
 tags : [tools,vim]
