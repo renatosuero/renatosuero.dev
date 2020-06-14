@@ -12,6 +12,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+disqusShortname = "renatosuero-dev"
+
 [params]
 	author = "Renato Suero"
 	info = "Software Engineer"
@@ -56,3 +58,8 @@ pygmentscodefencesguesssyntax = true
 	weight = 4
 	url = "https://www.linkedin.com/in/renatosuero/"
 
+# Menu links
+[[menu.main]]
+	name = "Posts"
+	weight = 1
+	url  = "/posts/"
