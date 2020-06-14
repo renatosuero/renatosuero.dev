@@ -80,6 +80,6 @@ Para navegar entre os panes use **leader seta**, agora te apresento alguns coman
 **x** => Para matar o panel, também podemos usar o exit ou o x para matar uma window;  
 **z** => Se quiser dar zoom em um pane, imagine o cenário onde tem 4 pane criada na tela e um deles está exibindo um log, em algum momento você precisa de mais espaço para ver esta informação, com o z você verá este pane como uma window, mas se repetir o comando voltará como estava, ou seja 4 panes criados;  
 
-Na parte 2 vou falar sobre a configuração do arquivo *tmux.conf*, que é onde a brincadeira vira coisa séria.Se o texto não ficar muito longo(dúvido) eu mostro como configurar a statusbar e deixar como a essa,senão ficará para parte 3.
+Na [parte 2](https://renatosuero.dev/posts/conhecendo-tmux-part-2/) vou falar sobre a configuração do arquivo *tmux.conf*, que é onde a brincadeira vira coisa séria.Se o texto não ficar muito longo(dúvido) eu mostro como configurar a statusbar e deixar como a essa,senão ficará para [parte 3](https://renatosuero.dev/posts/conhecendo-tmux-part-3/).
 
 ![image alt text](/tmux/tmux-example.jpeg)
