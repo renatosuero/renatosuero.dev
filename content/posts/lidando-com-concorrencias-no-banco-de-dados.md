@@ -1,6 +1,6 @@
 ---
 draft :  false
-title : "🇧🇷 Lidandom concorrências no banco de dado"
+title : "🇧🇷 Lidando com concorrências no banco de dados"
 date : 2020-10-24T13:34:05+02:00
 description : ""
 tags : [go,postgres]
