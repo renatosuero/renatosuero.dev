@@ -8,7 +8,7 @@ googleAnalytics = "UA-109216687-1"
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "bw"
+#pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
