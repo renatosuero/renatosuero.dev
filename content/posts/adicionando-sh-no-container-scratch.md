@@ -45,12 +45,13 @@ não for uma opção para ti vamos para a segunda opção.
 ```
 FROM alpine
 ````
+
 A segunda é rodar um container com busybox e copiar o binário e mandar para o outro
 container que está em execução.  
 
 ```
-# docker run -d --name busybox --rm busybox:latest sleep 100 
-# docker cp busybox:/bin/busybox .
+# docker run -d --name busybox --rm busybox:latest sleep 100   
+# docker cp busybox:/bin/busybox .  
 ```
 
 Aqui se você olhar no diretório atual deverá ver que há um binário chamado **busybox**. 
@@ -62,6 +63,7 @@ A próxima fase é copiar o binário no outro container que temos server rodando
 
 Pronto agora precisamos rodar esse comando para adicionar o busybox no **PATH** e
 instalar 
+
 ```
 # docker exec -it api /busybox sh -c '
 export PATH="/busybin:$PATH"
@@ -71,6 +73,7 @@ sh'
 ```
 Executando esse comando você já vai acessar o container e poderá executar os comandos
 que precisar.   
+
 ```
 / # ls
 busybin  busybox  dev      etc      proc     server   sys
