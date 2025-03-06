@@ -2,7 +2,7 @@ baseurl = "https://renatosuero.dev.br"
 title = "Renato Suero"
 theme = "hugo-coder"
 languagecode = "en"
-defaultcontentlanguage = "pt-BR"
+defaultcontentlanguage = "pt-br"
 #googleAnalytics = "UA-109216687-1"
 
 paginate = 20
